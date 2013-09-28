@@ -36,3 +36,6 @@
 	</header><!-- #masthead -->
 
 	<div id="content" class="site-content">
+
+
+	<h1>This is an edit of the header area made on the ipad</h2>
